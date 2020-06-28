@@ -14,3 +14,10 @@ The metric used is concentration rate = number of orders placed under a shop per
 The threshold is 3. If the concentration rate is above 3, we deem the shop as committing this act. 
 
 The challenge was hosted on kaggle. The challenge lasted 3 hours. 
+
+## Search Engine
+This is one of five code problems in the competition hosted on HackerEarth.
+
+The main challenge was to count number of occurrences a query from a user appears in actual item names. 
+
+This is to aid in a functioning search engine.
